@@ -1,6 +1,5 @@
 tensorflow-cpu
-flask
+streamlit
 numpy
 opencv-python-headless
 matplotlib
-gunicorn
