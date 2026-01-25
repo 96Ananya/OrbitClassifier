@@ -1,0 +1,6 @@
+tensorflow-cpu
+flask
+numpy
+opencv-python-headless
+matplotlib
+gunicorn
